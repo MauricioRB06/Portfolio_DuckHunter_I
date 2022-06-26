@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="center"><img height="15" src="Portfolio Assets/Unreal Projects/DuckHunter/Readme_ItchioLogo.png"><a href="https://drive.google.com/file/d/1S7EaXIPXXA9YWc8MqFypt7QsDI0SCO0y/view?usp=sharing" target="_blank">  Download Game [ Windows ]  </a><img height="15" src="https://github.com/MauricioRB06/MauricioRB06/blob/478cbf444a36395ff2048b6983ac26b97d1086fb/Portfolio%20Assets/Unreal%20Projects/DuckHunter/Readme_WindowsLogo.png"></p>
+<p align="center"><img height="15" src="https://github.com/MauricioRB06/MauricioRB06/blob/e97266f97277d1621b8d18b53177569c2b6fa01c/Portfolio%20Assets/Unreal%20Projects/DuckHunter/Readme_ItchioLogo.png"><a href="https://mauriciorb06.itch.io/duck-hunter" target="_blank">  Download Game [ Windows ]  </a><img height="15" src="https://github.com/MauricioRB06/MauricioRB06/blob/478cbf444a36395ff2048b6983ac26b97d1086fb/Portfolio%20Assets/Unreal%20Projects/DuckHunter/Readme_WindowsLogo.png"></p>
 
 <div align="center"> -------------------------------------------------------------------------------------------------------------------------------- </div>
 ⠀
